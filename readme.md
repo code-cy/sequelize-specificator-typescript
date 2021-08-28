@@ -2,7 +2,7 @@
 
 ## Install
 - with node js
-    - `npm i @code-cy/sequelize-specificator-typescript`
+    - `npm install @code-cy/sequelize-specificator-typescript@1.0.1`
 
 ## Usage
 
