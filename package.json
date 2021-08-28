@@ -1,5 +1,5 @@
 {
-  "name": "sequelize-specificator-typescript",
+  "name": "@codecy/sequelize-specificator-typescript",
   "version": "1.0.0",
   "description": "for querying models.",
   "main": "dist/index.js",
@@ -13,6 +13,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/code-cy/sequelize-specificator-typescript.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "author": "Camilo Barbosa",
   "license": "ISC",
