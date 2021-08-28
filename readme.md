@@ -6,7 +6,7 @@
 
 ## Usage
 
-Use this code for create generic input for findOptions for squelize:
+Use this code for create generic input for findOptions for sequelize:
 
 ```typescript
 import {FindOptions} from "sequelize"
